@@ -1,20 +1,11 @@
 [
-  {
-    "id": 1,
-    "cover": "https://images.unsplash.com/photo-1581090700227-1e8e0044d1ec?auto=format&fit=crop&w=800&q=80",
-    "title": "Mastering React in 30 Days",
-    "author": "John Doe",
-    "author_img": "https://ui-avatars.com/api/?name=John+Doe&background=random",
-    "posted_date": "2025-07-15",
-    "loading_time": 5,
-    "hashtags": ["#react", "#javascript", "#frontend"]
-  },
+
   {
     "id": 2,
     "cover": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=800&q=80",
     "title": "The Future of Web Development",
-    "author": "Jane Smith",
-    "author_img": "https://ui-avatars.com/api/?name=Jane+Smith&background=random",
+    "author": "MR : OMOR",
+    "author_img": "https://i.ibb.co/HTLGRswX/1750810200090.jpg",
     "posted_date": "2025-07-10",
     "loading_time": 7,
     "hashtags": ["#webdev", "#tech", "#future"]
